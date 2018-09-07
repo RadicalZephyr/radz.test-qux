@@ -1,3 +1,3 @@
 (ns radz.test.qux)
 
-(def number 1)
+(def number 2)
